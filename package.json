@@ -7,11 +7,7 @@
         
         
         "nodemailer": ">=1.0.3",  
-        "imap": "0.8.12",		
-        "nodemailer-smtp-transport": "*",       
-        "imap": "0.8.12",
-		"cheerio": "*",
-		"node-xlsx":"*",
-        "smtp-connection": "*"
+        "imap": "0.8.12"		
+        
     }
 }
