@@ -1,0 +1,17 @@
+{
+    "name": "pm",
+    "version": "0.0.1",
+    "private": true,
+  
+    "dependencies": {
+        
+        
+        "nodemailer": ">=1.0.3",  
+        "imap": "0.8.12",		
+        "nodemailer-smtp-transport": "*",       
+        "imap": "0.8.12",
+		"cheerio": "*",
+		"node-xlsx":"*",
+        "smtp-connection": "*"
+    }
+}
